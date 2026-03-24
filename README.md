@@ -1,5 +1,4 @@
 # About me
-- 🔭 I’m currently working on bacteria transcription
 - 🌱 I’m currently learning machine learning, LLM, Agent, protein de novo design, protein conformational dynamic, and github :)
 <!--
 - 👯 I’m looking to collaborate on ...
